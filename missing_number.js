@@ -31,3 +31,16 @@ for (let i = 0; i < arr.length; i++) {
 // Missing number
 let missing = expectedSum - actualSum;
 console.log("Missing number is:", missing);
+let arr =[2,5,8,9,3];
+min=2;
+max=9;
+for(i=0;i<max ;i++)
+{
+    let missing_number = true;
+    for(j=0;)
+}
+
+
+
+
+
