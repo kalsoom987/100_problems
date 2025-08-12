@@ -23,7 +23,7 @@ function moveZerosTwoPointers(arr) {
             
             [arr[pos], arr[i]] = [arr[i], arr[pos]];
             pos++;
-        }
+     }
     }
     return arr;
 }
