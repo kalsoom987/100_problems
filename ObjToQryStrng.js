@@ -10,6 +10,7 @@ let obj = {
 };
 
 
+
 function flattenObject(obj, parent = "", res = {}) {
   for (let key in obj) {
     if (obj.hasOwnProperty(key)) {
